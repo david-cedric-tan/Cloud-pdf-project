@@ -11,6 +11,7 @@ Users can upload PDF files through a Flask web application, while background wor
 * Event-driven architecture for scalable background processing
 
 <h3>AWS Architecture</h3>
+<img width="867" height="846" alt="Screenshot 2026-09-17 at 2 13 25 pm" src="https://github.com/user-attachments/assets/82155198-01f1-4cbc-89fd-f2e49ac713a7" />
 
 * Amazon EC2 – Hosts the Flask web application and worker services
 * Application Load Balancer (ALB) – Provides public access and distributes traffic
